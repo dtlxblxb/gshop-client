@@ -1,4 +1,4 @@
-# gshop-client
+# gshop-client-lxb
 
 ## Project setup
 ```
